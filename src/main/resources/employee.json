@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Wayne",
+    "age": 30,
+    "salary": 100000,
+    "position": "Tech Lead"
+  },
+  {
+    "name": "Alejandro",
+    "age": 20,
+    "salary": 20000,
+    "position": "JR Software Engineer"
+  },
+  {
+    "name": "Don",
+    "age": 23,
+    "salary": 23000,
+    "position": "JR Software Engineer"
+  }
+]
