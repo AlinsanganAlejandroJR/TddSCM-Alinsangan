@@ -2,7 +2,7 @@ package com.academy.Day3ExerciseTDDSCM.serviceTest;
 
 import com.academy.Day3ExerciseTDDSCM.repository.EmployeeRepository;
 import com.academy.Day3ExerciseTDDSCM.service.EmployeeService;
-import model.Employee;
+import com.academy.Day3ExerciseTDDSCM.model.Employee;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

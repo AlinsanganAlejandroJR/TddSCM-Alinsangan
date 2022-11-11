@@ -1,4 +1,4 @@
-package model;
+package com.academy.Day3ExerciseTDDSCM.model;
 
 import java.util.Objects;
 

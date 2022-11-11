@@ -1,6 +1,6 @@
 package com.academy.Day3ExerciseTDDSCM.repository;
 
-import model.Employee;
+import com.academy.Day3ExerciseTDDSCM.model.Employee;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

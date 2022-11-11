@@ -3,7 +3,7 @@ package com.academy.Day3ExerciseTDDSCM.repositoryTest;
 import com.academy.Day3ExerciseTDDSCM.repository.EmployeeRepository;
 import com.academy.Day3ExerciseTDDSCM.repository.EmployeeRepositoryFromJSON;
 
-import model.Employee;
+import com.academy.Day3ExerciseTDDSCM.model.Employee;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

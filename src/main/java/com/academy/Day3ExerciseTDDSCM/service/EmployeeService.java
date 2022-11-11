@@ -2,7 +2,7 @@ package com.academy.Day3ExerciseTDDSCM.service;
 
 import com.academy.Day3ExerciseTDDSCM.repository.EmployeeRepository;
 import com.academy.Day3ExerciseTDDSCM.repository.EmployeeRepositoryFromJSON;
-import model.Employee;
+import com.academy.Day3ExerciseTDDSCM.model.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
